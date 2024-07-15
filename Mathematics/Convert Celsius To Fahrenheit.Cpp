@@ -1,0 +1,12 @@
+class Solution{
+    public:
+    
+    //You need to complete this function
+    double cToF(int C)
+    {
+        //Your code here
+        return(C*9.0/5.0)+32.0;
+    
+        
+    }
+};
